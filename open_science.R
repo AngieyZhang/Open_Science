@@ -25,3 +25,9 @@ plot(weather$DOY, weather$precipitation)
 #assuming a sine wave structure of temperature over the day
 #use a development threshold of 10C, well, because it's a nice number
 #to work with
+
+#to work 
+
+#with
+
+
