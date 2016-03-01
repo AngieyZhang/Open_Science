@@ -31,3 +31,7 @@ plot(weather$DOY, weather$precipitation)
 #with
 
 
+#with
+plot(weather$precipitation, weather$air_temp_mean)
+
+
